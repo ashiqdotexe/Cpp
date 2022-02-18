@@ -1,0 +1,1 @@
+{"name":"Local: ArithmeticProgression","url":"d:\\Programming\\STL\\Vector\\ArithmeticProgression.cpp","tests":[{"id":1642771292297,"input":"3\n1 3 7","output":"Arithmetic"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\STL\\Vector\\ArithmeticProgression.cpp","group":"local","local":true}

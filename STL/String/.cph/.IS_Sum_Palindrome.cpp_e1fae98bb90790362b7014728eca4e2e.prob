@@ -1,0 +1,1 @@
+{"name":"Local: IS_Sum_Palindrome","url":"d:\\Programming\\STL\\String\\IS_Sum_Palindrome.cpp","tests":[{"id":1643865159329,"input":"2\n5 6\n7 6","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\STL\\String\\IS_Sum_Palindrome.cpp","group":"local","local":true}
